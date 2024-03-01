@@ -4,3 +4,7 @@
 /lightspeed-cache/
 /crash-reports/
 options.txt
+config/oculus.properties
+config/reforgium-renderer.properties
+config/oculus.properties
+config/reforgium-renderer.properties

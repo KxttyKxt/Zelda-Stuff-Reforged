@@ -1,9 +1,9 @@
 {
   "logModelCreationData": false,
-  "debugOnRightClick": false,
+  "debugOnRightClick": true,
   "renderModeChoice": "NORMAL",
   "vanillaModelHologramRenderMode": "Off",
-  "attemptRevertingEntityModelsAlteredByAnotherMod": true,
+  "attemptRevertingEntityModelsAlteredByAnotherMod": false,
   "logUnknownOrModdedEntityModels": "NONE",
   "attemptPhysicsModPatch_2": "CUSTOM",
   "modelUpdateFrequency": "Average"
